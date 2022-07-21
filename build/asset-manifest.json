@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25556f93.css",
+    "main.js": "/static/js/main.36402db4.js",
+    "static/media/mike-kenneally-TD4DBagg2wE-unsplash.jpg": "/static/media/mike-kenneally-TD4DBagg2wE-unsplash.e34dfbbef055a29bcff2.jpg",
+    "static/media/Rectangle 7.png": "/static/media/Rectangle 7.afd875a62dde64545cbe.png",
+    "static/media/Rectangle 6.png": "/static/media/Rectangle 6.f086c8a00e954e599919.png",
+    "static/media/Rectangle 5.png": "/static/media/Rectangle 5.ec28cacb0e4d244e0df7.png",
+    "index.html": "/index.html",
+    "main.25556f93.css.map": "/static/css/main.25556f93.css.map",
+    "main.36402db4.js.map": "/static/js/main.36402db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25556f93.css",
+    "static/js/main.36402db4.js"
+  ]
+}
